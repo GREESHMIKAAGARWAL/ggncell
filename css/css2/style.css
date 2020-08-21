@@ -112,4 +112,11 @@ background:#c8cfda
 .testimonial-slider .owl-dots .owl-dot.active span{
 	background:#5f30ff
 }
+@media screen and (max-width:600px)
+	{
+		div.l_title img
+		{
+			width:100%;
+		}
+}
 
