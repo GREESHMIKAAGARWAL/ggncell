@@ -22,7 +22,7 @@ margin-bottom: 50%;}
 @media (max-width: 600px){
 	.labo h2{
 		margin-top: 500%;
-		padding-bottom: 150px;
+		padding-bottom: 150%;
 		font-size: 35px;
 	}
 }
@@ -51,15 +51,15 @@ transform:scale(1)
 }}
 
 .testimonial-slider .testimonial-item{
-margin-top:60px
+margin-top:60%
 }
 
 @media (min-width: 992px){
 .testimonial-slider .testimonial-item{margin-top:150px}}
 
 .testimonial-slider .owl-item img{
-width:200px;
-height:225px;
+width:200%;
+height:225%;
 margin-right:auto;
 margin-left:auto;
 border-radius:0 40px 0 40px;
