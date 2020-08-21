@@ -2,11 +2,11 @@
 margin-bottom: -50px;}
 
 
-@media (min-width: 600px){
+@media (min-width: 900px){
 	.testimonial_area{padding-bottom:180px}
 	}
 
-@media (min-width: 1200px){
+@media (min-width: 900px){
 	.testimonial_area{padding-bottom:0px}
 }
 html,body{
@@ -23,7 +23,7 @@ html,body{
 	 margin-top: -170px;
 	 padding-bottom: 250px;
 }
-@media (max-width: 600px){
+@media (max-width: 900px){
 	.labo h2{
 		margin-top: -500px;
 		padding-bottom: 150px;
