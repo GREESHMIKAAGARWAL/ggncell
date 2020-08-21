@@ -1,5 +1,5 @@
-.testimonial_area{margin-top:-180px;
-margin-bottom: -50px;}
+.testimonial_area{margin-top:180%;
+margin-bottom: 50%;}
 
 
 @media (min-width: 600px){
@@ -16,12 +16,12 @@ margin-bottom: -50px;}
 	font-size: 4vw;
 	font-family:showcard gothic;
 	 color:orange;
-	 margin-top: -170px;
-	 padding-bottom: 250px;
+	 margin-top: 170%;
+	 padding-bottom: 250%;
 }
 @media (max-width: 600px){
 	.labo h2{
-		margin-top: -500px;
+		margin-top: 500%;
 		padding-bottom: 150px;
 		font-size: 35px;
 	}
