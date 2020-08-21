@@ -257,3 +257,9 @@ padding-left: 80px;
   padding-left: 80%;
   padding-top: 5%;
 }
+@media screen and (max-width:600px)
+	{
+		div.l_title img{
+			width:100%;
+		}
+}
