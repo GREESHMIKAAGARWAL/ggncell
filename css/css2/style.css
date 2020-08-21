@@ -9,10 +9,6 @@ margin-bottom: -50px;}
 @media (min-width: 900px){
 	.testimonial_area{padding-bottom:0px}
 }
-html,body{
-	width:100%;
-	overflow-x:hidden;
-}
 
 
 .labo h2{
@@ -112,11 +108,5 @@ background:#c8cfda
 .testimonial-slider .owl-dots .owl-dot.active span{
 	background:#5f30ff
 }
-@media screen and (max-width:600px)
-	{
-		div.l_title img
-		{
-			width:100%;
-		}
-}
+
 
