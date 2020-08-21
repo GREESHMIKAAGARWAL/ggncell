@@ -537,6 +537,9 @@ i:before {
   color: #fff;
 }
 
+	
+	
+
 .submit_btn:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -564,6 +567,12 @@ i:before {
 .solid_btn:hover {
   background-position: right center;
   color: #fff;
+}
+@media screen and (max-width:600px)
+{
+	div.l_title img{
+		width:100%;
+	}
 }
 
 
