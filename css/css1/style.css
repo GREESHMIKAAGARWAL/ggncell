@@ -36,7 +36,7 @@ width: 100%;}
   position: relative; }
 
   .intro-section, .intro-section .container .row {
-    height: 100vh;
+    height: 250vh;
     min-height: 1000px; }
   .intro-section:before {
     position: absolute;
@@ -243,7 +243,7 @@ padding-left: 80px;
   padding-left: 80%;
   padding-top: 5%;
 }
-@media screen and (max-width:900px)
+@media screen and (max-width:600px)
 	{
 		div.l_title img{
 			width:100%;
