@@ -40,7 +40,9 @@ width: 100%;}
     min-height: 1000px; }
   .intro-section:before {
     position: absolute;
-    
+    height:100%;
+    width:100%;
+    background-size:100%;
     background: rgba(0, 0, 0, 0);
     border-bottom-right-radius: 0px;
     background-size: cover;
