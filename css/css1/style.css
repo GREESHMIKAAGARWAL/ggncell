@@ -37,7 +37,7 @@ width: 100%;}
 
   .intro-section, .intro-section .container .row {
     height: 250vh;
-    min-height: 1000px; }
+   }
   .intro-section:before {
     position: absolute;
     
