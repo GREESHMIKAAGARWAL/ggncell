@@ -106,7 +106,11 @@ padding-left: 80px;
         margin-left: 20px;
         margin-top: 50px;
          } }
-
+ .intro-section.small, .intro-section.small .container .row {
+    height: 90vh;
+    min-height: 300px; }
+  .intro-section .intro {
+    margin-top: 6rem; }
 
  
 
