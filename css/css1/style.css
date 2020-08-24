@@ -62,7 +62,7 @@ width: 100%;}
     margin-top: 50px; }
     @media (max-width: 767px) {
       .intro-section .intro h1 {
-        font-size: 6em;
+        font-size: 3em;
         color:#595959 ;
         margin-top: -280px;
          } }
@@ -108,15 +108,7 @@ padding-left: 80px;
          } }
 
 
-  .intro-section.small, .intro-section.small .container .row {
-    height: 90vh;
-    min-height: 300px; }
-  .intro-section .intro {
-    margin-top: 6rem; }
-
-
-
-
+ 
 
 .title-with-line {
   color: #000;
